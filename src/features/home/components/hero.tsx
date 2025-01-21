@@ -41,7 +41,7 @@ const Hero: React.FC<HeroProps> = ({
   return (
     <div className="flex flex-col justify-start space-y-4">
       <h1 className="font-mono text-3xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 md:text-5xl">
-        Hi!, You can call me{" "}
+        Hi! You can call me{" "}
         <span className="bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent">
           {title}
         </span>
