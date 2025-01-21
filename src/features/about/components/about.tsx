@@ -20,7 +20,7 @@ const About: React.FC = () => {
         </p>
         <a
           className="mt-2 inline-flex text-gray-600 underline hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
-          href="https://drive.google.com/file/d/1vhzJF3O_x9r5pXTJ-XptnWwW4XII7og1/view?usp=sharing"
+          href="https://drive.google.com/file/d/1D2UNVv4ccwA6OSKMuBHn-tzDfUh_DwDH/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >

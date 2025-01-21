@@ -1,5 +1,5 @@
 import { BiLogoPostgresql } from "react-icons/bi";
-import { FaLaravel, FaPhp, FaReact, FaVuejs } from "react-icons/fa";
+import { FaLaravel, FaReact, FaVuejs } from "react-icons/fa";
 import { GrMysql } from "react-icons/gr";
 import {
   SiTailwindcss,
